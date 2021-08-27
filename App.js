@@ -2,6 +2,7 @@ import React from 'react';
 import data from './data';
 function App() {
   return (
+    <link rel="stylesheet" href="/frontend/src/index.css">
     <div  className="grid-container">
     <header  className="row">
     <div>
